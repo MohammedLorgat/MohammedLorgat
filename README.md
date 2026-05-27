@@ -8,7 +8,7 @@
 - 
 ## 🛠️ Tech Stack
 - Languages: JavaScript
-- Frontend: React, HTML, CSS ,Bootstramp
+- Frontend: React, HTML, CSS ,Bootstrap 5
 - Backend: Node.js, Express
 - Database: MongoDB, MySQL
 - Tools: Git, GitHub, VS Code

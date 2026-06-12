@@ -15,6 +15,6 @@
   
 - ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohammed-lorgat/
-- Portfolio: https://yourwebsite.com
+- Portfolio: https://mohammedlorgat.github.io/portfolio/
 - Email: mohammedlorgat1809@email.com
 
